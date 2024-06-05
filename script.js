@@ -32,26 +32,26 @@ function calculateResults(){
     document.getElementById('Charlie').innerText = Charlie;
 
     // Display values for Table 1
-    document.getElementById('A1').innerText = A1;
-    document.getElementById('A2').innerText = A2;
-    document.getElementById('A3').innerText = A3;
-    document.getElementById('A4').innerText = A4;
-    document.getElementById('A5').innerText = A5;
-    document.getElementById('A6').innerText = A6;
-    document.getElementById('A7').innerText = A7;
-    document.getElementById('A8').innerText = A8;
-    document.getElementById('A9').innerText = A9;
-    document.getElementById('A10').innerText = A10;
-    document.getElementById('A11').innerText = A11;
-    document.getElementById('A12').innerText = A12;
-    document.getElementById('A13').innerText = A13;
-    document.getElementById('A14').innerText = A14;
-    document.getElementById('A15').innerText = A15;
-    document.getElementById('A16').innerText = A16;
-    document.getElementById('A17').innerText = A17;
-    document.getElementById('A18').innerText = A18;
-    document.getElementById('A19').innerText = A19;
-    document.getElementById('A20').innerText = A20;
+    document.getElementById('A1').innerText = 41;
+    document.getElementById('A2').innerText = 18;
+    document.getElementById('A3').innerText = 21;
+    document.getElementById('A4').innerText = 63;
+    document.getElementById('A5').innerText = 2;
+    document.getElementById('A6').innerText = 53;
+    document.getElementById('A7').innerText = 5;
+    document.getElementById('A8').innerText = 57;
+    document.getElementById('A9').innerText = 60;
+    document.getElementById('A10').innerText = 93;
+    document.getElementById('A11').innerText = 28;
+    document.getElementById('A12').innerText = 3;
+    document.getElementById('A13').innerText = 90;
+    document.getElementById('A14').innerText = 39;
+    document.getElementById('A15').innerText = 80;
+    document.getElementById('A16').innerText = 88;
+    document.getElementById('A17').innerText = 49;
+    document.getElementById('A18').innerText = 60;
+    document.getElementById('A19').innerText = 26;
+    document.getElementById('A20').innerText = 28;
 }
 
 //calculate
