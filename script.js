@@ -25,6 +25,33 @@ function calculateResults(){
     const Alpha = A5 + A20;
     const Beta = A15 / A7;
     const Charlie = A13 * A12;
+
+    // Display calculated values in the table cells
+    document.getElementById('Alpha').innerText = Alpha;
+    document.getElementById('Beta').innerText = Beta;
+    document.getElementById('Charlie').innerText = Charlie;
+
+    // Display values for Table 1
+    document.getElementById('A1').innerText = A1;
+    document.getElementById('A2').innerText = A2;
+    document.getElementById('A3').innerText = A3;
+    document.getElementById('A4').innerText = A4;
+    document.getElementById('A5').innerText = A5;
+    document.getElementById('A6').innerText = A6;
+    document.getElementById('A7').innerText = A7;
+    document.getElementById('A8').innerText = A8;
+    document.getElementById('A9').innerText = A9;
+    document.getElementById('A10').innerText = A10;
+    document.getElementById('A11').innerText = A11;
+    document.getElementById('A12').innerText = A12;
+    document.getElementById('A13').innerText = A13;
+    document.getElementById('A14').innerText = A14;
+    document.getElementById('A15').innerText = A15;
+    document.getElementById('A16').innerText = A16;
+    document.getElementById('A17').innerText = A17;
+    document.getElementById('A18').innerText = A18;
+    document.getElementById('A19').innerText = A19;
+    document.getElementById('A20').innerText = A20;
 }
 
 //calculate
